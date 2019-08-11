@@ -1,23 +1,22 @@
 # Project structure
 
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── src
-│   ├── app.js
-│   ├── bin
-│   │   └── www.js
-│   ├── config
-│   │   ├── .env-dev
-│   │   ├── .env-example
-│   │   ├── .env-prod
-│   │   ├── .env-stage
-│   │   └── index.js
-│   ├── public
-│   │   ├── images
-│   │   ├── javascripts
-│   │   └── stylesheets
-│   ├── routes
-│   │   └── index.js
-│   └── views
-└── tests
+├── .gitignore <br />
+├── package.json <br />
+├── src <br />
+│   ├── app.js  <br />
+│   ├── bin  <br />
+│   │   └── www.js  <br />
+│   ├── config  <br />
+│   │   ├── .env-dev  <br />
+│   │   ├── .env-example  <br />
+│   │   ├── .env-prod  <br />
+│   │   ├── .env-stage  <br />
+│   │   └── index.js  <br />
+│   ├── public  <br />
+│   │   ├── images  <br />
+│   │   ├── javascripts  <br />
+│   │   └── stylesheets  <br />
+│   ├── routes  <br />
+│   │   └── index.js  <br />
+│   └── views  <br />
+└── tests  <br />
